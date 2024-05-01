@@ -1,3 +1,0 @@
-#Logos-nvim
-
-Hello world
