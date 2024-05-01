@@ -1,1 +1,3 @@
-ew#Logos-nvim
+#Logos-nvim
+
+Hello world
